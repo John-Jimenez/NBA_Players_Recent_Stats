@@ -1,6 +1,6 @@
 # NBA_Players_Recent_Stats
 
-This repository contains a Python script that webscrapes the latest 5 games played for any NBA teams and displays the information via Streamlit.
+This repository contains a Python script that webscrapes the latest 5 games played for any NBA team and displays the information via Streamlit.
 This tool is designed to help expedite research when deciding on lineups for DraftKings.
 
 ## Prerequisites
